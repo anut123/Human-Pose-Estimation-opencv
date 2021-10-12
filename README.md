@@ -7,8 +7,8 @@ Perform Human Pose Estimation in OpenCV Using OpenPose MobileNet
 <br>
 <br>
 ![OpenCV Using OpenPose MobileNet](output.JPG)
-
-
+<img src="image.jpg" width="100%" height="79%">
+<img src="output.JPG" width="100%" height="79%">
 # How to use
 
 - Test with webcam
